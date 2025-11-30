@@ -1,4 +1,4 @@
-MoneyTracker - Control de Gastos Personales
+💰 MoneyTracker - Control de Gastos Personales
 
 MoneyTracker es una aplicación nativa de Android desarrollada como proyecto bimestral para la materia de Aplicaciones Móviles. Su objetivo es ayudarte a gestionar tus finanzas personales de manera eficiente, registrando ingresos y gastos, controlando tu presupuesto mensual con alertas visuales y visualizando estadísticas claras.
 
@@ -60,23 +60,12 @@ Material Design Components (Cards, Floating Action Buttons)
 
 (Aquí puedes subir tus imágenes a la carpeta del repo y enlazarlas, o borrar esta sección si no tienes las imágenes listas)
 
-Dashboard Principal
-
-Formulario de Registro
-
-Estadísticas
-
-<img src="screenshots/dashboard.png" width="200"/>
-
-<img src="screenshots/form.png" width="200"/>
-
-<img src="screenshots/stats.png" width="200"/>
-
 🚀 Instalación y Uso
 
 Clonar el repositorio:
 
 git clone [https://github.com/JostinQuilca/MoneyTracker.git](https://github.com/JostinQuilca/MoneyTracker.git)
+
 
 
 Abrir en Android Studio:
@@ -94,4 +83,3 @@ Ejecutar:
 Conecta tu dispositivo Android (con Depuración USB activa) o usa un Emulador.
 
 Presiona el botón Run (Play).
-
